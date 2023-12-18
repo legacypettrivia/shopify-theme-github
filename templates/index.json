@@ -44,8 +44,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "heading_size": "h1",
-        "description": "",
+        "heading_size": "h2",
+        "description": "<p>Dog Grooming <\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
